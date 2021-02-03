@@ -1,24 +1,20 @@
 # todo
 
-## Project setup
+## Configurações
+
+### Em web/
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Inicializar web
+### Em web/
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Inicializar api
+### em api/
 ```
-npm run build
+php -S localhost:3000
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
